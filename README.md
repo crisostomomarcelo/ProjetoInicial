@@ -1,4 +1,7 @@
 # Projeto Inicial
  Primeiro Projeto curso Git GitHub
+
  Teste de alteração do READ ME
-Negócio Prático demais e tem de memorizar
+
+ Negócio Prático demais e tem de memorizar
+ 
